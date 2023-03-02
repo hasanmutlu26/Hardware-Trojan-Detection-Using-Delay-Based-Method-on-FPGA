@@ -1,0 +1,160 @@
+Restore Archived Project report for DE0_CV
+Thu Mar  2 12:01:35 2023
+Quartus Prime Version 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2022  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Mar  2 12:01:35 2023 ;
+; Revision Name                   ; DE0_CV                                ;
+; Top-level Entity Name           ; DE0_CV                                ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Lenovo/Desktop/FPGA-Spy-Hardware-Delay/DE0_CV.qar' into the 'C:/Users/Lenovo/Desktop/ss/' directory
+Info: Generated report 'DE0_CV.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/22.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4827 megabytes
+    Info: Processing ended: Thu Mar  2 12:01:35 2023
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++--------------------------------+
+; Files Restored                 ;
++--------------------------------+
+; File Name                      ;
++--------------------------------+
+; qar_info.json                  ;
+; DE0_CV.SDC                     ;
+; DE0_CV.qpf                     ;
+; DE0_CV.qsf                     ;
+; DE0_CV.v                       ;
+; DE0_CV_assignment_defaults.qdf ;
+; DIV_control.v                  ;
+; DIV_datpath.v                  ;
+; DIV_test.v                     ;
+; HightoLow.v                    ;
+; HightoLow_control.v            ;
+; HightoLow_testbench.v          ;
+; LowtoHigh.v                    ;
+; LowtoHigh_control.v            ;
+; LowtoHigh_testbench.v          ;
+; _32bit_2x1MUX.v                ;
+; _32bit_ADD.v                   ;
+; _32bit_DIV.v                   ;
+; _32bit_DIV_testbench.v         ;
+; _32bit_OR.v                    ;
+; _32bit_REG.v                   ;
+; _32bit_SLT.v                   ;
+; _32bit_SUB.v                   ;
+; _32bit_XOR.v                   ;
+; _7bitOR.v                      ;
+; decToSeg_test.v                ;
+; decToSeg_testbench.v           ;
+; decimal_to_7seg.v              ;
+; delay.v                        ;
+; delay_control.v                ;
+; delay_datapath.v               ;
+; delay_testbench.v              ;
+; display.v                      ;
+; full_adder.v                   ;
+; half_adder.v                   ;
+; multipath.v                    ;
+; multipath_32.v                 ;
+; not3_34.v                      ;
+; not3_34_10.v                   ;
+; not3_34_100.v                  ;
+; not3_34_20.v                   ;
+; not3_34_5.v                    ;
+; not3_34_50.v                   ;
+; path1.v                        ;
+; path1_testbench.v              ;
+; pll250.cmp                     ;
+; pll250.qip                     ;
+; pll250.sip                     ;
+; pll250.spd                     ;
+; pll250.v                       ;
+; pll250/pll250_0002.qip         ;
+; pll250/pll250_0002.v           ;
+; pll250_sim/pll250.vo           ;
+; signalprobe_qsf.tcl            ;
+; singlepath_1_10.v              ;
+; singlepath_1_100.v             ;
+; singlepath_1_20.v              ;
+; singlepath_1_50.v              ;
+; singlepath_1_5n.v              ;
+; singlepath_2.v                 ;
+; singlepath_2_10.v              ;
+; singlepath_2_100.v             ;
+; singlepath_2_20.v              ;
+; singlepath_2_50.v              ;
+; singlepath_2_5n.v              ;
+; singlepath_3.v                 ;
+; singlepath_3_10.v              ;
+; singlepath_3_100.v             ;
+; singlepath_3_20.v              ;
+; singlepath_3_5.v               ;
+; singlepath_3_50.v              ;
+; singlepath_plode.v             ;
+; singlepath_plode_testbench.v   ;
+; singlepath_plode_wrapper.v     ;
+; spypath_3_1.v                  ;
+; spypath_3_1_10.v               ;
+; spypath_3_1_100.v              ;
+; spypath_3_1_20.v               ;
+; spypath_3_1_50.v               ;
+; spypath_3_1_5n.v               ;
+; spypath_3_2.v                  ;
+; spypath_3_2_10.v               ;
+; spypath_3_2_100.v              ;
+; spypath_3_2_20.v               ;
+; spypath_3_2_50.v               ;
+; spypath_3_2_5n.v               ;
++--------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
