@@ -1,4 +1,4 @@
-# Hardware-Trojan-Detection-Using-Delay-Based-Method-on-FPGA
+# Hardware Trojan Detection Using Delay Based Method on FPGA
 This project aimed to detect hardware Trojans in FPGA designs by measuring
 delays on a single example path and its trojan-added versions. The method proved to
 be effective by showing a significant difference in delay between the clean path and
